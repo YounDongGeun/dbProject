@@ -9,3 +9,9 @@ create table dept(
 );
 
 insert into dept values(001, "인사부", "윤동근");
+
+insert into dept values(002, "총무부", "장종찬");
+
+insert into dept values(003, "경리부", "최영환");
+
+
