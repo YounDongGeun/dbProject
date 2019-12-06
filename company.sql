@@ -7,3 +7,5 @@ create table dept(
 	name varchar(50),
 	chiet varchar(20)
 );
+
+insert into dept values(001, "인사부", "윤동근");
